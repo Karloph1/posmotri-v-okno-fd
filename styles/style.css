@@ -177,7 +177,7 @@ html {
   display: flex;
   flex-direction: column;
   height: 298px;
-  overflow: scroll;
+  overflow: auto;
   gap: 30px;
   position: relative;
   align-items: flex-start;
@@ -309,10 +309,6 @@ ol {
 }
 
 /* Кастомный скроллбар */
-.custom-scrollbar {
-  overflow-x: hidden;
-  overflow-y: auto;
-}
 .custom-scrollbar::-webkit-scrollbar {
   width: 4px;
 }
