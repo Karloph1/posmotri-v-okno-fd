@@ -177,6 +177,7 @@ html {
   display: flex;
   flex-direction: column;
   height: 298px;
+  width: 100%;
   overflow: auto;
   gap: 30px;
   position: relative;
