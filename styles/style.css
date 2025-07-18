@@ -169,7 +169,7 @@ html {
 }
 
 .content__details {
-  width: 100%;
+  width: 399px;
   align-self: self-start;
   margin-top: 90px;
   position: relative;
@@ -296,7 +296,7 @@ button classes.
 }
 
 .more-button {
-  width: 100%;
+  width: 390px;
   position: relative;
   bottom: 5px;
 }
